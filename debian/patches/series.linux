@@ -18,3 +18,5 @@ pve/0013-KVM-x86-emulator-smm-use-smram-struct-for-64-bit-smr.patch
 pve/0014-KVM-x86-SVM-use-smram-structs.patch
 pve/0015-KVM-x86-SVM-don-t-save-SVM-state-to-SMRAM-when-VM-is.patch
 pve/0016-KVM-x86-emulator-smm-preserve-interrupt-shadow-in-SM.patch
+
+bnx2x/bnx2x_warpcore_8727_2_5g_sgmii_txfault.patch
